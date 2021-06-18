@@ -3,7 +3,7 @@ You can post issues/grievances on the [Github](https://github.com/visnkmr) page 
 
 Developer Homepage ( [Amazon Appstore](https://www.amazon.com/s?rh=n%3A2350149011%2Cp_4%3AVishnu+N+K&ref=bl_dp_s_web_0) || [Google Play](https://play.google.com/store/apps/developer?id=Vishnu+N+K) || [Github](https://[Github].com/visnkmr) || [Privacy Policy](https://appchoose.blogspot.com/p/privacy-policy.html) )
 
-Wireless File Manager (Browse, Send files to your TV Wirelessly) ( [Amazon Appstore](https://www.amazon.com/Wireless-Manager-Transfer-Files-Explorer/dp/B07MMTTWF3/) || [Google Play](https://play.google.com/store/apps/details?id=io.[Github].visnkmr.wirelessexplorer) || [Github](https://[Github].com/visnkmr/wfm) )
+Wireless File Manager (Browse, Send files to your TV Wirelessly) ( [Amazon Appstore](https://www.amazon.com/Wireless-Manager-Transfer-Files-Explorer/dp/B07MMTTWF3/) || [Google Play](https://play.google.com/store/apps/details?id=io.[Github].visnkmr.wirelessexplorer) || [Github](https://Github.com/visnkmr/wfm) )
 
 Background Apps and Process List ( [Amazon Appstore](https://www.amazon.com/Background-Apps-and-Process-List/dp/B077LRPXZW/) || [Google Play](https://play.google.com/store/apps/details?id=io.[Github].visnkmr.bapl) || [Github](https://[Github].com/visnkmr/backgroundappslist) || [Docs](https://appchoose.blogspot.com/2019/07/close-background-apps-on-android-tv.html) )
 
